@@ -17,5 +17,5 @@ API WEB : https://openapi.sk.com/
   3. Python vincent Module로 각 지역의 데이터를 Marker에 popup시 표현될 그래프 형태로 변환<br />
 
 <h3> 안전지수 평균에 따른 색상 </h3>
-<img src='https://user-images.githubusercontent.com/68526662/123539652-c3241780-d775-11eb-80e9-fc817d02ced5.PNG'>
+<img src='https://user-images.githubusercontent.com/68526662/123539737-0b433a00-d776-11eb-862e-8c45a77344f5.PNG'>
 
