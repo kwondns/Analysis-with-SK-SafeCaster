@@ -1,6 +1,8 @@
 # Analysis-with-SK-SafeCaster
 
 SK OPEN API에서 제공을 해주는 SafeCaster데이터 즉, COVID-19 안전지수를 수집하여 시각화 후 분석 <br />
+COVID-19 안전지수는 유동인구, 지하철 혼잡도, 택시 혼잡도, 실시간 재난 알림 정보 등 다양한 형태의 데이터를<br />
+수집하고 분석하여 전국 기반의 지역별/시간대별 산출<br />
 API WEB : https://openapi.sk.com/ 
 
 <h2>데이터 수집 과정 </h2>
