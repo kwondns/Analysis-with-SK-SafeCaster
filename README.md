@@ -19,3 +19,6 @@ API WEB : https://openapi.sk.com/
 <h3> 안전지수 평균에 따른 색상 </h3>
 <img src='https://user-images.githubusercontent.com/68526662/123539737-0b433a00-d776-11eb-862e-8c45a77344f5.PNG'>
 
+<h2> 지도 시각화 결과 </h2>
+기준 : 21년 06월 23일의 서울시
+<img src='https://user-images.githubusercontent.com/68526662/123539788-5e1cf180-d776-11eb-8cc4-34549a0225ac.PNG'>
